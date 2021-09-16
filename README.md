@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChallengesNotPromises
 - 👀 I’m interested in ...Lora, e-ink, environmental monitoring. 
-- 🌱 I’m currently learning ... to follow tutorials, Arduino ESP32-e-Paper-Weather-Display, and make mistakes. 
+- 🌱 I’m currently learning ... to follow tutorials, glossery terms, and to make mistakes. 
 - 💞️ I’m looking to collaborate with ... anyone with patience. 
 - 📫 How to reach me ... does this site have a message box?
 
